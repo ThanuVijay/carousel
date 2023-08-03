@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "First slide label",
+    "subTitle": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+    "imageURL": "https://demos.creative-tim.com/marketplace/material-kit-pro/assets/img/bg2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Second slide label",
+    "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageURL": "https://mdbootstrap.com/img/Photos/Slides/img%20(130).jpg"
+  },
+  {
+    "id": 3,
+    "title": "Third slide label",
+    "subTitle": "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
+    "imageURL": "https://wowslider.com/sliders/demo-93/data1/images/lake.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Fourth  slide label",
+    "subTitle": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
+    "imageURL": "https://demos.creative-tim.com/marketplace/material-kit-pro/assets/img/bg2.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Fifth slide label",
+    "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imageURL": "https://mdbootstrap.com/img/Photos/Slides/img%20(130).jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sixth slide label",
+    "subTitle": "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
+    "imageURL": "https://wowslider.com/sliders/demo-93/data1/images/lake.jpg"
+  }
+]
