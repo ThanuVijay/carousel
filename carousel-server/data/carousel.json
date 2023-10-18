@@ -1,38 +1,99 @@
 [
   {
     "id": 1,
-    "title": "First slide label",
-    "subTitle": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-    "imageURL": "https://demos.creative-tim.com/marketplace/material-kit-pro/assets/img/bg2.jpg"
+    "category": "Sports Ball",
+    "title": "Foot Ball",
+    "about": "NIVIA Original",
+    "price": "$2000",
+    "imageURL": "https://www.indiansuperleague.com/static-assets/waf-images/fe/54/b0/4-3/r7blwPaMG2.png?v=100.19&w=1024"
   },
   {
     "id": 2,
-    "title": "Second slide label",
-    "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "imageURL": "https://mdbootstrap.com/img/Photos/Slides/img%20(130).jpg"
+    "category": "Sports Ball",
+    "title": "Foot Ball",
+    "about": "Original Nike",
+    "price": "$3400",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvCWVp03yj1XqRV5Sey2K1fcTJFnh2cSAjdTu0KGuVcnRUTVWfLXTD3TwKb1Nt-NPWycU&usqp=CAU"
   },
   {
     "id": 3,
-    "title": "Third slide label",
-    "subTitle": "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
-    "imageURL": "https://wowslider.com/sliders/demo-93/data1/images/lake.jpg"
+    "category": "Sports Ball",
+    "title": "Foot Ball",
+    "about": "",
+    "price": "$1200",
+    "imageURL": "https://5.imimg.com/data5/PJ/DP/EM/SELLER-38255385/imported-world-cup-top-fifa-football.jpg"
   },
   {
     "id": 4,
-    "title": "Fourth  slide label",
-    "subTitle": "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-    "imageURL": "https://demos.creative-tim.com/marketplace/material-kit-pro/assets/img/bg2.jpg"
+    "category": "Sports T-Shirt",
+    "title": "Jerrcy",
+    "about": "jordan Original",
+    "price": "$2000",
+    "imageURL": "https://5.imimg.com/data5/SELLER/Default/2021/2/TZ/UI/WA/36647063/new-product-500x500.jpeg"
   },
   {
     "id": 5,
-    "title": "Fifth slide label",
-    "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "imageURL": "https://mdbootstrap.com/img/Photos/Slides/img%20(130).jpg"
+    "category": "Sports T-Shirt",
+    "title": "Jerrcy",
+    "about": "Original Nike",
+    "price": "$2500",
+    "imageURL": "https://5.imimg.com/data5/SELLER/Default/2021/2/TZ/UI/WA/36647063/new-product-500x500.jpeg"
   },
   {
     "id": 6,
-    "title": "Sixth slide label",
-    "subTitle": "Praesent commodo cursus magna, vel scelerisque nisl consectetur.",
-    "imageURL": "https://wowslider.com/sliders/demo-93/data1/images/lake.jpg"
+    "category": "Sports T-Shirt",
+    "title": "Jerrcy",
+    "about": "Original Nike",
+    "price": "$3230",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cxbzWOBKBhfjrdr3VSp9z42UYYhnGnMT6w&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "category": "Badminton",
+    "title": "Badminton Raket",
+    "about": "Original Nike",
+    "price": "$8400",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSaUnFdF4tEN9hESgrJH5BFV9q-RnXDjyeaA&usqp=CAU"
+  },
+  {
+    "id": 8,
+    "category": "Badminton",
+    "title": "Badminton Raket",
+    "about": "Original Spike",
+    "price": "$2300",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUS1iTHU9RGGmPnIqU3jg1QqGCrmH1EGlN8g&usqp=CAU"
+  },
+  {
+    "id": 9,
+    "category": "Badminton",
+    "title": "Badminton Raket",
+    "about": "Original NIVA",
+    "price": "$1400",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-9ygvgNyaoRJT3FcoR05Kv6ZAoeiv8XkwIl8s8jM0LBy5sl3AnFJgbCCtlgSJB1CQpg&usqp=CAU"
+  },
+  {
+    "id": 10,
+    "category": "Tennis Ball",
+    "title": "Willson Ball",
+    "about": "Original Willson 1",
+    "price": "$8400",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyP3lOGSHbXmLdKWJweHI6ri311sH9gW_buA&usqp=CAU"
+  },
+  {
+    "id": 11,
+    "category": "Tennis Ball",
+    "title": "Willson Ball",
+    "about": "Original Willson 1",
+    "price": "$2300",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcuLbrP1r9pMRHcSQ-8T5SOh9ijOU-og9KK0vW3FyjxwXaOmArZIuQUg2HoAcaPoCQF-k&usqp=CAU"
+  },
+  {
+    "id": 12,
+    "category": "Tennis Ball",
+    "title": "Willson Ball",
+    "about": "Original Willson 1",
+    "price": "$1400",
+    "imageURL": "https://hips.hearstapps.com/hmg-prod/images/final-1534881814.jpg?crop=1xw:1xh;center,top&resize=980:*"
   }
 ]
+  
